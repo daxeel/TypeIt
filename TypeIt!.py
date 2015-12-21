@@ -2,7 +2,6 @@
 # Name : TypeIt!
 # Creator : Daxeel Soni
 # Language : Python 3.3.3
-# Connect me : http://www.linkedin.com/in/daxeel
 
 #-------SOURCE CODE-------
 import random
